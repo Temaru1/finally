@@ -36,17 +36,18 @@ export default function Hodgebusiness(){
         <Col>
         <div className="jk">
           <div className="jj"><img src="https://hardleygrey.com/wp-content/uploads/2022/05/Infraserv_001.png" alt="photo" /></div>
+          <div className="lass"></div>
           <h3>Our Business</h3>
           <div className="useless5"></div>
-          <div><h6> Infraserv has over 12 years of experience offering a broad range of facilities management services including janitorial services, gardening and landscaping, fumigation and pest control, facade maintenance, maintenance and repairs of mechanical and electrical systems, maintenance of HVAC systems, etc…
+          <div><p> Infraserv has over 12 years of experience offering a broad range of facilities management services including janitorial services, gardening and landscaping, fumigation and pest control, facade maintenance, maintenance and repairs of mechanical and electrical systems, maintenance of HVAC systems, etc…
 
-          Our competitive advantage is rooted in the ability to effectively deliver projects in a manner that satisfies even the strictest quality and performance requirements.We are able to provide facility management services in ways that work best for our clients. Whatever your unique needs, our services are customizable to provide you the extent of support you desire</h6></div></div>
+          Our competitive advantage is rooted in the ability to effectively deliver projects in a manner that satisfies even the strictest quality and performance requirements.We are able to provide facility management services in ways that work best for our clients. Whatever your unique needs, our services are customizable to provide you the extent of support you desire</p></div></div>
         </Col>
         <Col className="jl">
         <div className="jm">
-          <h5>THE EDGE</h5>
+          <h4>THE EDGE</h4>
           <div className="useless7"></div>
-          <h6>We have a team of experienced industry professionals that are equipped with modern tools to deliver to client’s specifications in various projects.</h6>
+          <p>We have a team of experienced industry professionals that are equipped with modern tools to deliver to client’s specifications in various projects.</p>
           </div>
         </Col>
       </Row>

@@ -45,14 +45,15 @@ export default function HodgeAutoCenter() {
 
             <div className="nbm">
             <img src="https://hardleygrey.com/wp-content/uploads/2022/05/HAC_001.png" alt="photo" />
-              <h2>Hodge Auto center was established in Nigeria in 2012,</h2>
-              <p className="ptag">as a professional alternative to existing automobile repair operations in the Lagos metropolis.
+            <div className="lass"></div>
+              <h2 className="big">Hodge Auto center was established in Nigeria in 2012,</h2>
+              <p>as a professional alternative to existing automobile repair operations in the Lagos metropolis.
               Currently, Hodge Auto Centre is the first option for a growing number of the leading companies in the Lagos metropolis</p>
               </div>
             </Col>
             <Col>
             <div className="nbm">
-            <p className="ptag">Hodge Auto Centre has forged partnerships with key players in the global automotive industry.
+            <p>Hodge Auto Centre has forged partnerships with key players in the global automotive industry.
             These partnerships guarantee that our diagnostic equipment and software are always up to date and that we utilizeonly Original Equipment Manufacturer spare parts and lubricants. Ensuring that our processes are in keeping with industry best practices</p>
             </div>
             </Col>
@@ -60,31 +61,37 @@ export default function HodgeAutoCenter() {
             <div className="nbm">
             <div><h5>OUR VISION</h5></div>
             <div className="useless3"></div>
-            <div><p className="ptag">To be the first option for leading companies and individuals in the Lagos metropolis.</p></div>
+            <div><p>To be the first option for leading companies and individuals in the Lagos metropolis.</p></div>
             <div><h5>OUR MISSION</h5></div>
             <div className="useless4"></div>
-            <div><p className="ptag">To deliver professional and qualitative automobile diagnostic and repair services</p></div>
+            <div><p>To deliver professional and qualitative automobile diagnostic and repair services</p></div>
             </div>
             </Col>
           </Row>
+
           </div>
         </Container>
         </div>
 
             <div>
-        <Corevalues />
-        
-      </div>
-      <div>
+
 
       </div>
-      <Container>
+        <Row><Corevalues /></Row>
+
+        <Container>
+
       <Row>
-      <div className="klklkl">
-        <Ourclients />
-      </div>
+
+
+
       </Row>
       </Container>
+
+      <div className="milk">
+        <Ourclients />
+      </div>
+
     </div>
 
 

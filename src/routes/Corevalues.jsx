@@ -7,7 +7,8 @@ export default function CoreValues() {
   return <div>
   <div className="corediv">
     <div className="core">
-      <h3>CORE VALUES</h3>
+      <h2>CORE VALUES</h2>
+      <div className="corel"></div>
     </div>
     </div>
     <Container>

@@ -11,16 +11,16 @@ function Slogan() {
         <Col>
         <div className="vvv">
         <div className="mnb">
-          <h4>Slogan</h4>
-          <h6>Delivering Exceptional value</h6>
+          <h2>Slogan</h2>
+          <h5>Delivering Exceptional value</h5>
         </div>
         <div className="mnb">
-          <h4>Mission Statement</h4>
-          <h6>To deliver innovative and superior services through operational excellence and partnerships</h6>
+          <h2>Mission Statement</h2>
+          <h5>To deliver innovative and superior services through operational excellence and partnerships</h5>
         </div>
         <div className="mnb">
-          <h4>Vision Statement</h4>
-          <h6>To build a world class support service conglomerate committed to excellence and stakeholder value</h6>
+          <h2>Vision Statement</h2>
+          <h5>To build a world class support service conglomerate committed to excellence and stakeholder value</h5>
         </div>
           </div>
         </Col>

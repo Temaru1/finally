@@ -12,7 +12,7 @@ export default function Ourpeople(){
   return (
     <div>
     <Container>
-    <div className="s3"><h3>ABOUT US</h3></div>
+    <div className="s3"><h1>ABOUT US</h1></div>
     <div className="useless2"></div>
     <div className="s4">
       <Aboutuswriteup />

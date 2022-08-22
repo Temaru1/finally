@@ -10,7 +10,7 @@ export default function Aboutus(){
   return(
     <div>
     <Container>
-    <div className="cvb"><h3 className="d">Our People</h3>
+    <div className="cvb"><h1 className="d">Leadership</h1>
     <div className="d1"></div></div>
 
 

@@ -12,12 +12,12 @@ export default function Ourvalues(){
       <Row>
         <Col className="ddd">
         <div>
-        <div><h4 className="dd">Our Values</h4></div>
+        <div><h1 className="dd">Our Values</h1></div>
         <div className="chi"></div>
         <div className="coretext">
           <h3>At Hardley Grey Group, Our values are the code of behaviour that guide our day to day conduct to achieve our mission</h3>
 
-          <h6>They are the heart of our service delivery and constitute key elements of our internal and external relationships</h6>
+          <h5>They are the heart of our service delivery and constitute key elements of our internal and external relationships</h5>
         </div>
         </div>
         </Col>

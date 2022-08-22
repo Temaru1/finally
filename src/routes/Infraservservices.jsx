@@ -45,11 +45,11 @@ export default function Infraservservices(){
     <Row className="iiiii">
     <Col>
 
-    <div><h5>Infraserv has over 12 years of experience offering a broad range of facilities management services which include, but not limited to: janitorial services, gardening and landscaping, fumigation and pest control, facade maintenance, maintenance and repairs of mechanical and electrical systems, maintenance of HVAC systems, etc…
+    <div><p>Infraserv has over 12 years of experience offering a broad range of facilities management services which include, but not limited to: janitorial services, gardening and landscaping, fumigation and pest control, facade maintenance, maintenance and repairs of mechanical and electrical systems, maintenance of HVAC systems, etc…
 
     Our competitive advantage is rooted in the ability to effectively deliver projects in a manner that satisfies even the strictest quality and performance requirements.We are able to provide facility management services in ways that work best for our clients. Whatever your unique needs, our services are customizable to provide you the extent of support you desire
 
-    Our services fall under two broad categories:</h5></div>
+    Our services fall under two broad categories:</p></div>
     </Col>
     </Row>
     </Container>
@@ -57,26 +57,26 @@ export default function Infraservservices(){
     <Row>
     <Col className="iii">
     <div className="klm">
-    <h5 className="llm">SOFT SERVICES</h5>
+    <h3 className="llm">SOFT SERVICES</h3>
     <ul>
-      <li>Cleaning</li>
-      <li>Gardening and landscaping</li>
-      <li>Security and security systems management</li>
-      <li>Fumigation and Pest Control</li>
-      <li>Façade maintenance</li>
+      <li><p>Cleaning</p></li>
+      <li><p>Gardening and landscaping</p></li>
+      <li><p>Security and security systems management</p></li>
+      <li><p>Fumigation and Pest Control</p></li>
+      <li><p>Façade maintenance</p></li>
     </ul>
     </div>
     </Col>
     <Col className="iii">
     <div className="klm">
-      <h5 className="llm">HARD SERVICES</h5>
+      <h3 className="llm">HARD SERVICES</h3>
       <ul>
-        <li>Maintenance and repairs of Mechanical and Electrical Systems</li>
-        <li>Maintenance and repairs of HVAC Systems</li>
-        <li>Plumbing and management of water purification systems</li>
-        <li>Carpentry Works</li>
-        <li>Masonry</li>
-        <li>Power systems management</li>
+        <li><p>Maintenance and repairs of Mechanical and Electrical Systems</p></li>
+        <li><p>Maintenance and repairs of HVAC Systems</p></li>
+        <li><p>Plumbing and management of water purification systems</p></li>
+        <li><p>Carpentry Works</p></li>
+        <li><p>Masonry</p></li>
+        <li><p>Power systems management</p></li>
       </ul>
     </div>
     </Col>

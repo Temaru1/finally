@@ -13,7 +13,7 @@ function Aboutuswriteup() {
         <div className="s5">
         <h2>We have been a significant player in the support services industry since inception</h2>
         <div className="meee"></div>
-        <h5>Hardley Grey was established in 2006 and we are Nigeria’s most efficient, multi-faceted support service providers.</h5>
+        <h4>Hardley Grey was established in 2006 and we are Nigeria’s most efficient, multi-faceted support service providers.</h4>
         </div>
         </Col>
         <Col>
@@ -30,7 +30,7 @@ function Aboutuswriteup() {
         </Col>
         <Col>
         <div className="s55">
-        <h2><p>With over 600 employees, Hardley Grey continues to redefine industry standards in facilities management, automobile repair and maintenance and security management.</p></h2>
+        <h4>With over 600 employees, Hardley Grey continues to redefine industry standards in facilities management, automobile repair and maintenance and security<br />management.</h4>
         <div className="mee"></div>
         </div>
         </Col>

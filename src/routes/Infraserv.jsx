@@ -43,7 +43,8 @@ export default function Infraserv(){
       <Col>
       <div className="nbm">
         <img src="https://hardleygrey.com/wp-content/uploads/2022/05/Infraserv_001.png" alt="photo" />
-        <h1>Infraserv was established to become a leading player in Facilities Management.,</h1>
+        <div className="lass"></div>
+        <h2>Infraserv was established to become a leading player in Facilities Management.,</h2>
         <p className="ptag">It has grown to develop a full spectrum of service offerings to a growing number of highly satisfied clients in Nigeria.
 
         Infraserv is armed with the will, vision and experience to meet statutory, technical and contractual requirements with regards to quality and timely delivery.
@@ -64,10 +65,10 @@ export default function Infraserv(){
       <div className="nbm">
       <h5>OUR VISION</h5>
       <div className="useless3"></div>
-      <p className="ptag">To be the leading player in the facilities management industry</p>
+      <p>To be the leading player in the facilities management industry</p>
       <h5>OUR MISSION</h5>
       <div className="useless4"></div>
-      <p className="ptag">To deliver superior and extra ordinary facilities management services in a safe, professional ad timely manner using our local and foreign expertise</p>
+      <p>To deliver superior and extra ordinary facilities management services in a safe, professional ad timely manner using our local and foreign expertise</p>
       </div>
       </Col>
       </Row>
@@ -76,11 +77,12 @@ export default function Infraserv(){
       <Corevalues />
       <Container>
       <Row>
-      <div className="klklkl">
-        <Ourclients />
-      </div>
+
       </Row>
       </Container>
+      <div className="milk">
+        <Ourclients />
+      </div>
       </div>
   )
 }

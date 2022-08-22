@@ -2,6 +2,7 @@ body {
   text-align: center;
   margin: 0;
 
+
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -11,6 +12,9 @@ body {
 }
 .con1{
   margin-top: 100px;
+}
+.navv{
+  font-size: 25px;
 }
 .con2{
   margin-top: 100px;
@@ -46,6 +50,7 @@ body {
 .hahaha{
   padding: 100px;
 }
+
 .ha{
   width: 550px;
 
@@ -56,7 +61,10 @@ body {
 .hehe{
   border-bottom: 5px solid;
   color: gold;
-
+}
+.haihai{
+  margin-left: 50px;
+  margin-right: 50px;
 }
 .hahahaha{
   border-bottom: 5px solid;
@@ -96,15 +104,30 @@ body {
   color: gold;
 }
 .qq{
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin: 50px;
   background-color: grey;
   color: white;
-  margin-left: 50px;
-  margin-right: 50px;
+}
+/* .big{
+  font-size: 1.6rem;
+}
+.med{
+  font-size: 1.2rem;
+} */
+/* h2{
+  font-size: 50px;
+  color: red;
+
+} */
+p{
+font-size: 1.2rem;
 }
 .nbm{
   padding:50px;
+
+}
+.lass{
+  margin-bottom: 50px;
 }
 .klklk{
   margin-left: -40px;
@@ -119,7 +142,7 @@ code {
     monospace;
 }
 .logo {
-  height: 75px;
+  height: 110px;
   margin-left: 0;
 }
 .groupnavlogo{
@@ -176,7 +199,7 @@ code {
 }
 .mee{
   border-bottom: 5px solid;
-  width: 200px;
+  width: 145px;
   border-color: gold;
   margin-bottom: 30px;
 }
@@ -197,7 +220,7 @@ code {
 }
 .chi{
   border-bottom: 5px solid;
-  width: 117px;
+  width: 190px;
   color: gold;
   margin-bottom: 50px;
 }
@@ -254,9 +277,7 @@ code {
   text-align: center;
   margin-top: 50px;
 }
-.aboutustext{
 
-}
 .ourpeopletext{
   text-align: center;
   color: grey;
@@ -310,7 +331,7 @@ code {
   margin-left: 50px;
 }
 .useless2{
-  width: 134px;
+  width: 185px;
   border-bottom: solid 5px;
   border-color: gold;
   margin-left: 10px;
@@ -344,7 +365,7 @@ code {
 .useless7{
   border-bottom: 5px solid;
   color: gold;
-  width: 90px;
+  width: 110px;
   margin-bottom: 30px;
 }
 .lll{
@@ -410,7 +431,7 @@ code {
   width: 400px;
 }
 .s55{
-  width: 400px;
+  margin-top: 50px;
   margin-left: 0px;
 }
 .z1{
@@ -457,10 +478,7 @@ code {
   background-color: #212529;
   opacity: 80%;
 }
-.pinn{
 
-
-}
 .d{
   color: grey;
   padding-top: 40px;
@@ -468,10 +486,12 @@ code {
 }
 .d1{
   margin-left: 100px;
-  width: 140px;
+  width: 190px;
   border-bottom: solid 3px;
   border-color: gold;
-
+}
+.midd{
+  font-size: 1.3rem;
 }
 
 .o11{
@@ -549,7 +569,7 @@ width: 400px;
   text-align: center;
   margin-bottom: 0px;
   padding: 20px;
-  margin-bottom: 0px;
+
 }
 .klh{
   margin: 20px;
@@ -563,7 +583,7 @@ width: 400px;
   margin: 20px;
 }
 .footerlogo{
-  height: 60px;
+  height: 100px;
   margin-top: 10px;
 }
 .cartext{
@@ -618,6 +638,7 @@ width: 400px;
 
 .navLogo{
 margin-left: 0px;
+
 }
 
 .mdiv{
@@ -645,14 +666,14 @@ marquee{
 }
 .clients{
   margin-top: 50px;
-  margin-left: -28px;
+
   color: grey;
 }
 .clientss{
-  margin-left: -28px;
+
   border-bottom: 5px solid;
   border-color: gold;
-  width: 140px;
+  width: 160px;
   margin-bottom: 50px;
 }
 .corediv{
@@ -669,18 +690,21 @@ marquee{
   margin-left: 20px;
 }
 .core{
-  border-bottom: 5px solid;
-  border-color: gold;
-  width: 180px;
   margin-top: 50px;
   margin-bottom: 50px;
-  margin-left: 12px;
-
+  margin-left: 10px;
+}
+.corel{
+  width: 195px;
+  border-bottom: 5px solid;
+  border-color: gold;
 }
 .coretext{
   width: 500px;
   color: grey;
-
+}
+.milk{
+  margin-left: 50px;
 }
 .klklkl{
   margin-left: 0px;
@@ -690,7 +714,7 @@ marquee{
   margin-left: -140px;
 }
 .coreatt{
-  width: 450px;
+  width: 500px;
   text-align: center;
 
 }

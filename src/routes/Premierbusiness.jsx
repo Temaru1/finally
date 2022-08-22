@@ -33,15 +33,16 @@ export default function Premierbusiness(){
       <Row>
         <Col>
         <div className="jj"><img src="https://hardleygrey.com/wp-content/uploads/2022/05/PG_001.png" alt="photo" /></div>
+        <div className="lass"></div>
         <h3> Our Business < /h3>
         <div className="useless5"></div>
-        <div className="sss"><h6> PREMIER GUARDS provides intelligent, robust security management solutions to business organizations in Nigeria.It has since grown to offer services to numerous governmental organizations, manufacturing companies, oil and gas giants, construction companies, banks and organizations in the hospitality industry </h6></div>
+        <div className="sss"><p> PREMIER GUARDS provides intelligent, robust security management solutions to business organizations in Nigeria.It has since grown to offer services to numerous governmental organizations, manufacturing companies, oil and gas giants, construction companies, banks and organizations in the hospitality industry </p></div>
         </Col>
         <Col>
         <div className="lll">
-          <h5> THE EDGE < /h5>
+          <h4> THE EDGE < /h4>
           <div className="useless7"></div>
-          <h6> We have a team of experienced industry professionals that are equipped with modern tools to deliver to client’ s specifications in various projects. </h6>
+          <p> We have a team of experienced industry professionals that are equipped with modern tools to deliver to client’ s specifications in various projects. </p>
         </div>
         </Col>
       </Row>

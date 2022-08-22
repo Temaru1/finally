@@ -4,11 +4,13 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 export default function Ourclients(){
   return (
-
-
-    <Container>
-    <div className="clients"><h3>Our Clients</h3></div>
+    <div>
+    <div className="clients"><h2>Our Clients</h2></div>
     <div className="clientss"></div>
+    <Container>
+
+
+
     <Row>
         <marquee vspace = "20" height="100%">
           <div class="mdiv2">
@@ -46,6 +48,6 @@ export default function Ourclients(){
         </marquee>
       </Row>
       </Container>
-    
+    </div>
   )
 }

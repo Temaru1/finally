@@ -16,14 +16,14 @@ export default function Hodgebusiness(){
           <div className="h11"><img className="h1" src="https://hardleygrey.com/wp-content/uploads/2022/05/HAC_001.png" alt="photo" /></div>
           <h3>Our Business</h3>
           <div className="useless5"></div>
-          <div className="sss"><h6> Hodge Auto Centre has over 12 years of experience in providing robust and variegated automobile repair services to a wide range of clients ranging from vehicle owners, public and private companies and vehicle dealerships.</h6></div>
+          <div><p> Hodge Auto Centre has over 12 years of experience in providing robust and variegated automobile repair services to a wide range of clients ranging from vehicle owners, public and private companies and vehicle dealerships.</p></div>
         </Col>
         <Col>
 
         <div className="lll">
-          <h5>THE EDGE</h5>
+          <h4>THE EDGE</h4>
           <div className="useless7"></div>
-          <h6>Our expert team has years of experience in foresight, diagnosis, strategy and auto repair solutions.</h6>
+          <p>Our expert team has years of experience in foresight, diagnosis, strategy and auto repair solutions.</p>
           </div>
 
         </Col>

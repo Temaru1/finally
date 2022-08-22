@@ -28,9 +28,9 @@ export default function Hse(){
     <Row className="z1">
 
         <div>
-        <h3>HSE Policy</h3>
+        <h2>HSE Policy</h2>
         <div className="z5"></div>
-      <p>As part of our corporate policy, astute consideration is given to e safety and health of our staff and clients; undertaking of project execution methods that will ensure zero to minimum environmental hazards and the maintenance of absolute security and confidentiality on behalf of our clients.
+      <p className="midd">As part of our corporate policy, astute consideration is given to e safety and health of our staff and clients; undertaking of project execution methods that will ensure zero to minimum environmental hazards and the maintenance of absolute security and confidentiality on behalf of our clients.
 
       Therefore, no effort is spared in the planning stages of each project, to ensure the protection of life, property and the environment.
 
@@ -54,9 +54,9 @@ export default function Hse(){
       <div className="z5"></div>
       <Row className="z2">
         <div>
-        <h3>Quality Policy</h3>
+        <h2>Quality Policy</h2>
         <div className="z5"></div>
-        <p>Quality of service is of utmost importance to The Hardley Grey group of companies. The ideal of quality for us relates to the satisfaction our clients derive from not only the services rendered, but also from the method of service delivery.
+        <p className="midd">Quality of service is of utmost importance to The Hardley Grey group of companies. The ideal of quality for us relates to the satisfaction our clients derive from not only the services rendered, but also from the method of service delivery.
 
         The realization of these ideals is made possible by our team.
 

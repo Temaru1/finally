@@ -22,11 +22,11 @@ export default function Hodgeservices(){
       </Row>
         <Row className="iiiii">
           <Col>
-          <h5>Established in 2012 as a professional alternative to existing automobile repair options in the Lagos metropolis, Hodge Auto Centre provides robust and variegated automobile repair services to a wide range of clients ranging from vehicle owners, public and private companies and vehicle dealerships.
+          <p>Established in 2012 as a professional alternative to existing automobile repair options in the Lagos metropolis, Hodge Auto Centre provides robust and variegated automobile repair services to a wide range of clients ranging from vehicle owners, public and private companies and vehicle dealerships.
 
           Currently, Hodge Auto centre is the first option for a growing number of the leading companies in the Lagos metropolis. Our customer base includes several finiancial institutions, engineering and manufacturing companies, and players in the Nigerian Oil and gas industry.
 
-          We are an experienced team of industry professionals using innovative tools, companies specifications and local and international standards to provide the following automobile repaair and maintenance services:</h5>
+          We are an experienced team of industry professionals using innovative tools, companies specifications and local and international standards to provide the following automobile repaair and maintenance services:</p>
           </Col>
         </Row>
       </Container>
@@ -38,45 +38,44 @@ export default function Hodgeservices(){
           <Row>
             <Col className="iii">
             <div className="klm">
-            <h5 className="llm">Repairs overhauling or replacement of components in automobile mechanical systems</h5>
+            <h3 className="llm">Repairs overhauling or replacement of components in automobile mechanical systems</h3>
             <ul>
-              <li>Engines</li>
-              <li>Transmission systems</li>
-              <li>Suspensions</li>
-              <li>Power systems</li>
-              <li>Drive trains for front, rear and all-wheel drive models</li>
-              <li>Cooling and heating systems</li>
-              <li>Speed and direction control systems</li>
+              <li><p>Engines<br />
+              Transmission systems<br />
+              Suspensions<br />
+              Power systems<br />
+              Drive trains for front, rear and all-wheel drive models<br />
+              Cooling and heating systems<br />
+              Speed and direction control systems</p></li>
             </ul>
             </div>
             </Col>
             <Col className="iii">
             <div className="klm">
-            <h5 className="llm">Repair of wear and tear to vehicle exterior due to age or accidents</h5>
+            <h3 className="llm">Repair of wear and tear to vehicle exterior due to age or accidents</h3>
             <ul>
-              <li>Frame/ Chassis straightening</li>
-              <li>Panel Beating</li>
-              <li>Enhancements for aesthetic purposes</li>
-              <li>Rust treatment</li>
-              <li>Replacement of vehicle peripherals including side mirrors, bumpers and windscreens</li>
-              <li>Painting with computer aided selection of original manufacturer specified paint</li>
-              <li></li>
-              <li></li>
+              <li><p>Frame/ Chassis straightening<br />
+              Panel Beating<br />
+              Enhancements for aesthetic purposes<br />
+              Rust treatment<br />
+              Replacement of vehicle peripherals including side mirrors, bumpers and windscreens<br />
+              Painting with computer aided selection of original manufacturer specified paint</p></li>
+
             </ul>
             </div>
             </Col>
             <Col className="iii">
             <div className="klm">
-            <h5 className="llm">Specialized services</h5>
+            <h3 className="llm">Specialized services</h3>
             <ul>
-              <li>Modifications of vehicle exterior</li>
-              <li>Restoration of vehicle upholstery</li>
-              <li>Restoration of vintage cars</li>
-              <li>Programming of replacement keys</li>
-              <li>Reprogramming of brainbox systems</li>
-              <li>Hot-rodding</li>
-              <li>Repair of damaged parts</li>
-              <li></li>
+              <li><p>Modifications of vehicle exterior<br />
+              Restoration of vehicle upholstery<br />
+              Restoration of vintage cars<br />
+              Programming of replacement keys<br />
+              Reprogramming of brainbox systems<br />
+              Hot-rodding<br />
+              Repair of damaged parts</p></li>
+
             </ul>
             </div>
             </Col>
@@ -84,19 +83,19 @@ export default function Hodgeservices(){
             <Row>
             <Col className="iii">
             <div className="klm">
-            <h5 className="llm">Machining</h5>
+            <h3 className="llm">Machining</h3>
             <ul>
-              <li>Resurfacing of brake discs</li>
-              <li>Machining of valves and crank shafts</li>
+              <li><p>Resurfacing of brake discs<br />
+              Machining of valves and crank shafts</p></li>
             </ul>
             </div>
             </Col>
             <Col className="iii">
             <div className="klm">
-            <h5 className="llm">Support services</h5>
+            <h3 className="llm">Support services</h3>
             <ul>
-              <li>Towing</li>
-              <li>Pickup and delivery of vehicles (available only for clients in Ikoyi, VI, Lekki and Ajah)</li>
+              <li><p>Towing<br />
+              Pickup and delivery of vehicles (available only for clients in Ikoyi, VI, Lekki and Ajah)</p></li>
             </ul>
             </div>
             </Col>
