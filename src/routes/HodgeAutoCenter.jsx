@@ -22,7 +22,7 @@ export default function HodgeAutoCenter() {
           <li className="nkl">Electrical Repairs</li>
           <li className="nkl">Model Upgrade and Conversion</li>
           <li className="nkl">Panel Beating and Spray Painting</li>
-          <li className="nkl">Air Conditionaer Servicing</li>
+          <li className="nkl">Air Conditioner Servicing</li>
           <li className="nkl">Automobile Support</li>
         </ul>
 

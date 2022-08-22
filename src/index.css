@@ -114,17 +114,7 @@ body {
   background-color: grey;
   color: white;
 }
-/* .big{
-  font-size: 1.6rem;
-}
-.med{
-  font-size: 1.2rem;
-} */
-/* h2{
-  font-size: 50px;
-  color: red;
 
-} */
 p{
 font-size: 1.2rem;
 }
@@ -719,6 +709,7 @@ marquee{
 .coretext{
   width: 500px;
   color: grey;
+  margin-left: 100px;
 }
 .milk{
   margin-left: 50px;
@@ -733,6 +724,7 @@ marquee{
 .coreatt{
   width: 500px;
   text-align: center;
+  margin-left: 100px;
 
 }
 .ptag{
@@ -772,7 +764,4 @@ marquee{
 .ourpeopleimage{
   width: 100%;
   height: 80%;
-}
-ul {
- list-style-type: none;
 }
