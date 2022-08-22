@@ -83,13 +83,16 @@ export default function Infraservservices(){
     </Row>
     </Container>
     <Container>
-    <Row>
-    <Col><img className="okayo" src="https://hardleygrey.com/wp-content/uploads/2022/05/Infraserv-gardening.png" alt="photo" /></Col>
-    <Col><img className="okayo" src="https://hardleygrey.com/wp-content/uploads/2022/05/IMG-20211215-WA0017.jpg" alt="photo" /></Col>
-    <Col><img className="okayo" src="https://hardleygrey.com/wp-content/uploads/2022/05/Infraserv-painting.png" alt="photo" /></Col>
-    <Col><img className="okayo" src="https://hardleygrey.com/wp-content/uploads/2022/05/Infraserv-cleaning.png" alt="photo" /></Col>
-    </Row>
+    <Col className="boyo">
+
+      <img className="okayo" src="https://hardleygrey.com/wp-content/uploads/2022/05/Infraserv-gardening.png" alt="photo" />
+      <img className="okayo" src="https://hardleygrey.com/wp-content/uploads/2022/05/IMG-20211215-WA0017.jpg" alt="photo" />
+      <img className="okayo" src="https://hardleygrey.com/wp-content/uploads/2022/05/Infraserv-painting.png" alt="photo" />
+      <img className="okayo" src="https://hardleygrey.com/wp-content/uploads/2022/05/Infraserv-cleaning.png" alt="photo" />
+    </Col>
     </Container>
+
+
 
 
 
